@@ -390,8 +390,8 @@ $("document").ready(function() {
 
             //13
             Filler_HowMany3,
-            Filler_Answer15,
-            Filler_INF15,
+            Filler_Answer13,
+            Filler_INF13,
 
             //66
             Filler_Polar18,
@@ -443,8 +443,8 @@ $("document").ready(function() {
             
              // 30
              Filler_What8,
-             Filler_Answer30,
-             Filler_INF30,
+             Filler_Answer28,
+             Filler_INF28,
  
              //39
              Filler_Did9,
